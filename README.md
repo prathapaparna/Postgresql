@@ -33,7 +33,7 @@ create table users (
 
 SELECT * FROM users;
 ```
-
+```
 CREATE TABLE PASSENGERS(
 
 "Id" INT PRIMARY KEY NOT NULL,
@@ -52,6 +52,7 @@ CREATE TABLE PASSENGERS(
 
 );
 ```
+```
 INSERT INTO "users" ("id", "name", "active")
 VALUES (1, 'Jack', 'true') ;
 ```
@@ -65,7 +66,9 @@ delete tables
 DROP TABLE users; 
 ```
 \dt ------------ list of tables
+
 \dn ----------- list of schemas
+
 create schemas
 ```
 CREATE SCHEMA employees; create schemas
