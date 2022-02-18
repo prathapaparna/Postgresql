@@ -72,3 +72,6 @@ DROP TABLE users;
 create schemas
 ```
 CREATE SCHEMA employees; create schemas
+
+https://www.w3schools.blog/insert-query-postgresql
+
