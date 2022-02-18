@@ -8,4 +8,4 @@ https://techviewleo.com/install-postgresql-12-on-amazon-linux/
 use the following link
 ```
 https://middlewaretechnologies.in/2021/12/how-to-install-and-configure-postgresql-database-using-ansible-playbook.html
-'''
+```
